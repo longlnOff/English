@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="Ng&#x1eef; ph&#xe1;p Ti&#x1ebf;ng Anh (English Grammar)" FOLDED="false" ID="ID_144702895" CREATED="1690244259190" MODIFIED="1690273219190"><hook NAME="MapStyle" zoom="2.049">
-    <properties edgeColorConfiguration="#808080ff,#000000ff,#ff0033ff,#009933ff,#3333ffff,#ff6600ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true"/>
+    <properties edgeColorConfiguration="#808080ff,#000000ff,#ff0033ff,#009933ff,#3333ffff,#ff6600ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt" TEXT_SHORTENED="true">
@@ -46,7 +46,7 @@
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font SIZE="12"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_COLUMNS"/>
-<node TEXT="Th&#xec; qu&#xe1; kh&#x1ee9; 1 (Past tense 1)" FOLDED="true" POSITION="left" ID="ID_36322555" CREATED="1690333619410" MODIFIED="1690686457368">
+<node TEXT="Th&#xec; qu&#xe1; kh&#x1ee9; 1 (Past tense 1)" POSITION="left" ID="ID_36322555" CREATED="1690333619410" MODIFIED="1690686457368">
 <node TEXT="Th&#xec; qu&#xe1; kh&#x1ee9; &#x111;&#x1a1;n (Past simple)" FOLDED="true" ID="ID_1988245677" CREATED="1690333701194" MODIFIED="1690333723669">
 <node TEXT="c&#xf4;ng th&#x1ee9;c" FOLDED="true" ID="ID_792064405" CREATED="1690333784994" MODIFIED="1690333790572">
 <node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + Verb + -ed (or d)" FOLDED="true" ID="ID_565405432" CREATED="1690246234096" MODIFIED="1690333880007">
@@ -80,7 +80,7 @@
 </node>
 </node>
 </node>
-<node TEXT="c&#xe1;ch s&#x1eed; d&#x1ee5;ng" FOLDED="true" ID="ID_547953298" CREATED="1690333785594" MODIFIED="1690333795530">
+<node TEXT="c&#xe1;ch s&#x1eed; d&#x1ee5;ng" ID="ID_547953298" CREATED="1690333785594" MODIFIED="1690333795530">
 <node TEXT="&#x110;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t s&#x1ef1; ki&#x1ec7;n &#x111;&#xe3; k&#x1ebf;t th&#xfa;c trong qu&#xe1; kh&#x1ee9;, th&#x1b0;&#x1edd;ng &#x111;i k&#xe8;m m&#x1ed1;c th&#x1edd;i gian, tuy nhi&#xea;n kh&#xf4;ng c&#x1ea7;n m&#x1ed1;c th&#x1edd;i gian n&#x1ebf;u s&#x1ef1; ki&#x1ec7;n &#x111;&#xf3; &#x111;&#xe3; bi&#x1ebf;t tr&#x1b0;&#x1edb;c (VD2)" FOLDED="true" ID="ID_912996666" CREATED="1690275418292" MODIFIED="1690334449900">
 <font SIZE="8"/>
 <node TEXT="A few weeks agao a woman called to report a robbery at her house." ID="ID_617974632" CREATED="1690275844166" MODIFIED="1690334423307">
@@ -124,7 +124,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Th&#xec; qu&#xe1; kh&#x1ee9; ti&#x1ebf;p di&#x1ec5;n (Past continuous)" FOLDED="true" ID="ID_1521289141" CREATED="1690333702011" MODIFIED="1690333747839">
+<node TEXT="Th&#xec; qu&#xe1; kh&#x1ee9; ti&#x1ebf;p di&#x1ec5;n (Past continuous)" ID="ID_1521289141" CREATED="1690333702011" MODIFIED="1690333747839">
 <node TEXT="C&#xf4;ng th&#x1ee9;c" FOLDED="true" ID="ID_18461847" CREATED="1690275364981" MODIFIED="1690275371650">
 <node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + was/were + Verb/Verb + -ing" FOLDED="true" ID="ID_1218646745" CREATED="1690275408517" MODIFIED="1690334016438">
 <font SIZE="8"/>
@@ -154,7 +154,7 @@
 </node>
 </node>
 </node>
-<node TEXT="c&#xe1;ch s&#x1eed; d&#x1ee5;ng" FOLDED="true" ID="ID_854575804" CREATED="1690333785594" MODIFIED="1690333795530">
+<node TEXT="c&#xe1;ch s&#x1eed; d&#x1ee5;ng" ID="ID_854575804" CREATED="1690333785594" MODIFIED="1690333795530">
 <node TEXT="&#x110;&#x1ec3; &#x111;&#x1b0;a ra b&#x1ed1;i c&#x1ea3;nh cho m&#x1ed9;t h&#xe0;nh &#x111;&#x1ed9;ng ho&#x1eb7;c s&#x1ef1; ki&#x1ec7;n (th&#x1b0;&#x1edd;ng x&#x1ea3;y ra trong QK&#x110;). Ta th&#x1b0;&#x1edd;ng s&#x1eed; d&#x1ee5;ng when, while v&#xe0; as cho b&#x1ed1;i c&#x1ea3;nh" FOLDED="true" ID="ID_815179413" CREATED="1690275418292" MODIFIED="1690336437434">
 <font SIZE="8"/>
 <node TEXT="It happened at five in the afternoon while she was watching the news on TV." ID="ID_613961291" CREATED="1690275844166" MODIFIED="1690336496668">
@@ -169,7 +169,7 @@
 <node TEXT="For a while last year I was working at the cinema, studying for my degree and writing a column for the local newspaper. (We don&apos;t know if the actions were completed or not, or whether they happened at the same time)." ID="ID_1049940704" CREATED="1690275844166" MODIFIED="1690336662496">
 <font SIZE="6" BOLD="false"/>
 </node>
-<node TEXT="L&#x1b0;u &#xfd; l&#xe0; c&#xe1;c state verb kh&#xf4;ng c&#xf3; chia ti&#x1ebf;p di&#x1ec5;n (nh&#x1b0;ng c&#xe1;c t&#x1eeb; v&#x1eeb;a l&#xe0; state verb, v&#x1eeb;a &#xe0; action verb c&#xf3; th&#x1ec3; chia)." ID="ID_908981035" CREATED="1690275844166" MODIFIED="1690336715840">
+<node TEXT="L&#x1b0;u &#xfd; l&#xe0; c&#xe1;c state verb kh&#xf4;ng c&#xf3; chia ti&#x1ebf;p di&#x1ec5;n (nh&#x1b0;ng c&#xe1;c t&#x1eeb; v&#x1eeb;a l&#xe0; state verb, v&#x1eeb;a l&#xe0; action verb c&#xf3; th&#x1ec3; chia)." ID="ID_908981035" CREATED="1690275844166" MODIFIED="1692025713553">
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
@@ -180,7 +180,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Used to v&#xe0; would" FOLDED="true" ID="ID_1941980629" CREATED="1690333702591" MODIFIED="1690333759503">
+<node TEXT="Used to v&#xe0; would" ID="ID_1941980629" CREATED="1690333702591" MODIFIED="1690333759503">
 <node TEXT="c&#xf4;ng th&#x1ee9;c" FOLDED="true" ID="ID_1822528346" CREATED="1690333784994" MODIFIED="1690338842103">
 <node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + used to/would + infinitive" FOLDED="true" ID="ID_271514965" CREATED="1690246234096" MODIFIED="1690337055663">
 <attribute_layout NAME_WIDTH="91.49999727308759 pt" VALUE_WIDTH="92.24999725073585 pt"/>
@@ -210,7 +210,7 @@
 </node>
 </node>
 </node>
-<node TEXT="c&#xe1;ch s&#x1eed; d&#x1ee5;ng" FOLDED="true" ID="ID_1490288412" CREATED="1690333785594" MODIFIED="1690333795530">
+<node TEXT="c&#xe1;ch s&#x1eed; d&#x1ee5;ng" ID="ID_1490288412" CREATED="1690333785594" MODIFIED="1690333795530">
 <node TEXT="&#x110;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t h&#xe0;nh &#x111;&#x1ed9;ng l&#x1eb7;p &#x111;i l&#x1eb7;p l&#x1ea1;i trong qu&#xe1; kh&#x1ee9;." FOLDED="true" ID="ID_1459319200" CREATED="1690275418292" MODIFIED="1690337225874">
 <font SIZE="8"/>
 <node TEXT="She used to keep the front door locked." ID="ID_7786584" CREATED="1690275844166" MODIFIED="1690337263948">
@@ -374,9 +374,9 @@
 </node>
 </node>
 </node>
-<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i (Present tense)" FOLDED="true" POSITION="right" ID="ID_1814404649" CREATED="1690333578843" MODIFIED="1690333598261">
-<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i &#x111;&#x1a1;n (Present Simple tense)" FOLDED="true" ID="ID_1003195595" CREATED="1690244353770" MODIFIED="1690244831058">
-<node TEXT="C&#xf4;ng th&#x1ee9;c" FOLDED="true" ID="ID_803694816" CREATED="1690245214806" MODIFIED="1690246198627">
+<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i (Present tense)" POSITION="right" ID="ID_1814404649" CREATED="1690333578843" MODIFIED="1690333598261">
+<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i &#x111;&#x1a1;n (Present Simple tense)" ID="ID_1003195595" CREATED="1690244353770" MODIFIED="1690244831058">
+<node TEXT="C&#xf4;ng th&#x1ee9;c" ID="ID_803694816" CREATED="1690245214806" MODIFIED="1690246198627">
 <node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + Verb/Verb + (e)s" FOLDED="true" ID="ID_37819217" CREATED="1690246234096" MODIFIED="1690274521423">
 <attribute_layout NAME_WIDTH="91.49999727308759 pt" VALUE_WIDTH="92.24999725073585 pt"/>
 <font SIZE="8"/>
@@ -408,9 +408,9 @@
 </node>
 </node>
 </node>
-<node TEXT="C&#xe1;ch d&#xf9;ng" FOLDED="true" ID="ID_1548342399" CREATED="1690245217496" MODIFIED="1690246641651">
+<node TEXT="C&#xe1;ch d&#xf9;ng" ID="ID_1548342399" CREATED="1690245217496" MODIFIED="1690246641651">
 <font BOLD="true"/>
-<node TEXT="M&#xf4; t&#x1ea3; th&#xf3;i quen ho&#x1eb7;c m&#x1ed9;t h&#xe0;nh &#x111;&#x1ed9;ng l&#x1eb7;p &#x111;i l&#x1eb7;p l&#x1ea1;i" FOLDED="true" ID="ID_721066821" CREATED="1690246585284" MODIFIED="1690276175619">
+<node TEXT="M&#xf4; t&#x1ea3; th&#xf3;i quen ho&#x1eb7;c m&#x1ed9;t h&#xe0;nh &#x111;&#x1ed9;ng l&#x1eb7;p &#x111;i l&#x1eb7;p l&#x1ea1;i" ID="ID_721066821" CREATED="1690246585284" MODIFIED="1690276175619">
 <attribute_layout NAME_WIDTH="572.2499829456215 pt" VALUE_WIDTH="456.74998638778965 pt"/>
 <attribute NAME="always, generally, normally, usually, often, somtimes, rarely, never, everyday, ever evening, ..." VALUE=""/>
 <font BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
@@ -421,7 +421,7 @@
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
-<node TEXT="M&#xf4; t&#x1ea3; t&#xec;nh hu&#x1ed1;ng c&#x1ed1; &#x111;&#x1ecb;nh" FOLDED="true" ID="ID_1032264060" CREATED="1690246592323" MODIFIED="1690276175629">
+<node TEXT="M&#xf4; t&#x1ea3; t&#xec;nh hu&#x1ed1;ng c&#x1ed1; &#x111;&#x1ecb;nh" ID="ID_1032264060" CREATED="1690246592323" MODIFIED="1690276175629">
 <font BOLD="true"/>
 <node TEXT="My parents own a restaurant." ID="ID_569941551" CREATED="1690246979294" MODIFIED="1690276139543">
 <font SIZE="6" BOLD="false"/>
@@ -512,7 +512,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i ti&#x1ebf;p di&#x1ec5;n (Present Continuous tense)" FOLDED="true" ID="ID_1557012726" CREATED="1690275320290" MODIFIED="1690275345811">
+<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i ti&#x1ebf;p di&#x1ec5;n (Present Continuous tense)" ID="ID_1557012726" CREATED="1690275320290" MODIFIED="1690275345811">
 <node TEXT="C&#xf4;ng th&#x1ee9;c" FOLDED="true" ID="ID_789758925" CREATED="1690275364981" MODIFIED="1690275371650">
 <node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + am/is/are + Verb/Verb + -ing" FOLDED="true" ID="ID_1243114785" CREATED="1690275408517" MODIFIED="1690333994323">
 <font SIZE="8"/>
@@ -542,7 +542,7 @@
 </node>
 </node>
 </node>
-<node TEXT="C&#xe1;ch d&#xf9;ng" FOLDED="true" ID="ID_1174981924" CREATED="1690275366516" MODIFIED="1690275375694">
+<node TEXT="C&#xe1;ch d&#xf9;ng" ID="ID_1174981924" CREATED="1690275366516" MODIFIED="1690275375694">
 <node TEXT="N&#xf3;i v&#x1ec1; m&#x1ed9;t h&#xe0;nh &#x111;&#x1ed9;ng mang t&#xed;nh t&#x1ea1;m th&#x1edd;i" FOLDED="true" ID="ID_868647203" CREATED="1690275416700" MODIFIED="1690276338391">
 <attribute_layout NAME_WIDTH="43.49999870359901 pt" VALUE_WIDTH="282.7499915733936 pt"/>
 <attribute NAME="Word" VALUE="At the moment, currently, now, this week/month/year, ..."/>
@@ -869,7 +869,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 <font SIZE="10" BOLD="true"/>
 </node>
@@ -959,7 +958,6 @@
     </table>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="State verb kh&#xf4;ng c&#xf3; d&#x1ea1;ng ti&#x1ebf;p di&#x1ec5;n." LOCALIZED_STYLE_REF="styles.important" ID="ID_590609073" CREATED="1690769118917" MODIFIED="1690769145806"/>
