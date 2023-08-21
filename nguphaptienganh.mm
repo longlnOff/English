@@ -46,7 +46,7 @@
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font SIZE="12"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_COLUMNS"/>
-<node TEXT="Th&#xec; qu&#xe1; kh&#x1ee9; 1 (Past tense 1)" POSITION="left" ID="ID_36322555" CREATED="1690333619410" MODIFIED="1690686457368">
+<node TEXT="Th&#xec; qu&#xe1; kh&#x1ee9; 1 (Past tense 1)" FOLDED="true" POSITION="left" ID="ID_36322555" CREATED="1690333619410" MODIFIED="1690686457368">
 <node TEXT="Th&#xec; qu&#xe1; kh&#x1ee9; &#x111;&#x1a1;n (Past simple)" FOLDED="true" ID="ID_1988245677" CREATED="1690333701194" MODIFIED="1690333723669">
 <node TEXT="c&#xf4;ng th&#x1ee9;c" FOLDED="true" ID="ID_792064405" CREATED="1690333784994" MODIFIED="1690333790572">
 <node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + Verb + -ed (or d)" FOLDED="true" ID="ID_565405432" CREATED="1690246234096" MODIFIED="1690333880007">
@@ -374,7 +374,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i (Present tense)" POSITION="right" ID="ID_1814404649" CREATED="1690333578843" MODIFIED="1690333598261">
+<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i (Present tense)" FOLDED="true" POSITION="right" ID="ID_1814404649" CREATED="1690333578843" MODIFIED="1690333598261">
 <node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i &#x111;&#x1a1;n (Present Simple tense)" ID="ID_1003195595" CREATED="1690244353770" MODIFIED="1690244831058">
 <node TEXT="C&#xf4;ng th&#x1ee9;c" ID="ID_803694816" CREATED="1690245214806" MODIFIED="1690246198627">
 <node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + Verb/Verb + (e)s" FOLDED="true" ID="ID_37819217" CREATED="1690246234096" MODIFIED="1690274521423">
