@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="Ng&#x1eef; ph&#xe1;p Ti&#x1ebf;ng Anh (English Grammar)" FOLDED="false" ID="ID_144702895" CREATED="1690244259190" MODIFIED="1690273219190"><hook NAME="MapStyle" zoom="2.727">
+<node TEXT="Ng&#x1eef; ph&#xe1;p Ti&#x1ebf;ng Anh (English Grammar)" FOLDED="false" ID="ID_144702895" CREATED="1690244259190" MODIFIED="1690273219190"><hook NAME="MapStyle" zoom="2.254">
     <properties edgeColorConfiguration="#808080ff,#000000ff,#ff0033ff,#009933ff,#3333ffff,#ff6600ff,#cc00ccff,#ffbf00ff,#00ff99ff,#0099ffff,#996600ff,#000000ff,#cc0066ff,#33ff00ff,#ff9999ff,#0000ccff,#cccc00ff,#0099ccff,#006600ff,#ff00ccff,#00cc00ff,#0066ccff,#00ffffff" show_icon_for_attributes="true" show_note_icons="true" fit_to_viewport="false"/>
 
 <map_styles>
@@ -46,8 +46,8 @@
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font SIZE="12"/>
 <hook NAME="AutomaticEdgeColor" COUNTER="0" RULE="FOR_COLUMNS"/>
-<node TEXT="Th&#xec; qu&#xe1; kh&#x1ee9; 1 (Past tense 1)" FOLDED="true" POSITION="left" ID="ID_36322555" CREATED="1690333619410" MODIFIED="1690686457368">
-<node TEXT="Th&#xec; qu&#xe1; kh&#x1ee9; &#x111;&#x1a1;n (Past simple)" FOLDED="true" ID="ID_1988245677" CREATED="1690333701194" MODIFIED="1690333723669">
+<node TEXT="Th&#xec; qu&#xe1; kh&#x1ee9; 1 (Past tense 1)" POSITION="left" ID="ID_36322555" CREATED="1690333619410" MODIFIED="1690686457368">
+<node TEXT="Th&#xec; qu&#xe1; kh&#x1ee9; &#x111;&#x1a1;n (Past simple)" ID="ID_1988245677" CREATED="1690333701194" MODIFIED="1690333723669">
 <node TEXT="c&#xf4;ng th&#x1ee9;c" FOLDED="true" ID="ID_792064405" CREATED="1690333784994" MODIFIED="1690333790572">
 <node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + Verb + -ed (or d)" FOLDED="true" ID="ID_565405432" CREATED="1690246234096" MODIFIED="1690333880007">
 <attribute_layout NAME_WIDTH="91.49999727308759 pt" VALUE_WIDTH="92.24999725073585 pt"/>
@@ -81,16 +81,16 @@
 </node>
 </node>
 <node TEXT="c&#xe1;ch s&#x1eed; d&#x1ee5;ng" ID="ID_547953298" CREATED="1690333785594" MODIFIED="1690333795530">
-<node TEXT="&#x110;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t s&#x1ef1; ki&#x1ec7;n &#x111;&#xe3; k&#x1ebf;t th&#xfa;c trong qu&#xe1; kh&#x1ee9;, th&#x1b0;&#x1edd;ng &#x111;i k&#xe8;m m&#x1ed1;c th&#x1edd;i gian, tuy nhi&#xea;n kh&#xf4;ng c&#x1ea7;n m&#x1ed1;c th&#x1edd;i gian n&#x1ebf;u s&#x1ef1; ki&#x1ec7;n &#x111;&#xf3; &#x111;&#xe3; bi&#x1ebf;t tr&#x1b0;&#x1edb;c (VD2)" FOLDED="true" ID="ID_912996666" CREATED="1690275418292" MODIFIED="1690334449900">
+<node TEXT="&#x110;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t s&#x1ef1; ki&#x1ec7;n &#x111;&#xe3; k&#x1ebf;t th&#xfa;c trong qu&#xe1; kh&#x1ee9;, th&#x1b0;&#x1edd;ng &#x111;i k&#xe8;m m&#x1ed1;c th&#x1edd;i gian, tuy nhi&#xea;n kh&#xf4;ng c&#x1ea7;n m&#x1ed1;c th&#x1edd;i gian n&#x1ebf;u s&#x1ef1; ki&#x1ec7;n &#x111;&#xf3; &#x111;&#xe3; bi&#x1ebf;t tr&#x1b0;&#x1edb;c (VD2)" ID="ID_912996666" CREATED="1690275418292" MODIFIED="1690334449900">
 <font SIZE="8"/>
-<node TEXT="A few weeks agao a woman called to report a robbery at her house." ID="ID_617974632" CREATED="1690275844166" MODIFIED="1690334423307">
+<node TEXT="A few weeks ago a woman called to report a robbery at her house." ID="ID_617974632" CREATED="1690275844166" MODIFIED="1692715130646">
 <font SIZE="6" BOLD="false"/>
 </node>
 <node TEXT="How did the burglar break in without anybody hearing him?" ID="ID_1421354150" CREATED="1690275844166" MODIFIED="1690334483847">
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
-<node TEXT="&#x110;&#x1ec3; m&#xf4; t&#x1ea3; m&#x1ed9;t chu&#x1ed7;i c&#xe1;c s&#x1ef1; ki&#x1ec7;n &#x111;&#xe3; x&#x1ea3;y ra (th&#x1b0;&#x1edd;ng &#x111;i k&#xe8;m v&#x1edb;i next ho&#x1eb7;c then &#x111;&#x1ec3; th&#x1ec3; hi&#x1ec7;n chu&#x1ed7;i c&#xe1;c s&#x1ef1; ki&#x1ec7;n)" FOLDED="true" ID="ID_1378131425" CREATED="1690275418292" MODIFIED="1690334542653">
+<node TEXT="&#x110;&#x1ec3; m&#xf4; t&#x1ea3; m&#x1ed9;t chu&#x1ed7;i c&#xe1;c s&#x1ef1; ki&#x1ec7;n &#x111;&#xe3; x&#x1ea3;y ra (th&#x1b0;&#x1edd;ng &#x111;i k&#xe8;m v&#x1edb;i next ho&#x1eb7;c then &#x111;&#x1ec3; th&#x1ec3; hi&#x1ec7;n chu&#x1ed7;i c&#xe1;c s&#x1ef1; ki&#x1ec7;n)" ID="ID_1378131425" CREATED="1690275418292" MODIFIED="1690334542653">
 <font SIZE="8"/>
 <node TEXT="The burglar came in through the front door, picked up the woman&apos;s handbag, emptied it out and stole her purse." ID="ID_1900910260" CREATED="1690275844166" MODIFIED="1690335951554">
 <font SIZE="6" BOLD="false"/>
@@ -99,7 +99,7 @@
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
-<node TEXT="&#x110;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t h&#xe0;nh &#x111;&#x1ed9;ng l&#x1eb7;p &#x111;i l&#x1eb7;p l&#x1ea1;i trong qu&#xe1; kh&#x1ee9;" FOLDED="true" ID="ID_1234842920" CREATED="1690275418292" MODIFIED="1690336008319">
+<node TEXT="&#x110;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t h&#xe0;nh &#x111;&#x1ed9;ng l&#x1eb7;p &#x111;i l&#x1eb7;p l&#x1ea1;i trong qu&#xe1; kh&#x1ee9;" ID="ID_1234842920" CREATED="1690275418292" MODIFIED="1690336008319">
 <font SIZE="8"/>
 <node TEXT="When her son got older, he often went out to visit his friends after school." ID="ID_1473860988" CREATED="1690275844166" MODIFIED="1690336046242">
 <font SIZE="6" BOLD="false"/>
@@ -108,7 +108,7 @@
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
-<node TEXT="&#x110;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t s&#x1ef1; ki&#x1ec7;n x&#x1ea3;y ra r&#x1ea5;t l&#xe2;u trong qu&#xe1; kh&#x1ee9; v&#xe0; kh&#xf4;ng c&#xf2;n &#x111;&#xfa;ng &#x1edf; hi&#x1ec7;n t&#x1ea1;i n&#x1eef;a" FOLDED="true" ID="ID_254264882" CREATED="1690275418292" MODIFIED="1690336137034">
+<node TEXT="&#x110;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t s&#x1ef1; ki&#x1ec7;n x&#x1ea3;y ra r&#x1ea5;t l&#xe2;u trong qu&#xe1; kh&#x1ee9; v&#xe0; kh&#xf4;ng c&#xf2;n &#x111;&#xfa;ng &#x1edf; hi&#x1ec7;n t&#x1ea1;i n&#x1eef;a" ID="ID_254264882" CREATED="1690275418292" MODIFIED="1690336137034">
 <font SIZE="8"/>
 <node TEXT="He woreked for the police force for over 17 years." ID="ID_213525092" CREATED="1690275844166" MODIFIED="1690336153080">
 <font SIZE="6" BOLD="false"/>
@@ -223,7 +223,7 @@
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
-<node TEXT="&#x110;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t s&#x1ef1; ki&#x1ec7;n x&#x1ea3;y ra r&#x1ea5;t l&#xe2;u trong qu&#xe1; kh&#x1ee9; v&#xe0; kh&#xf4;ng c&#xf2;n &#x111;&#xfa;ng &#x1edf; hi&#x1ec7;n t&#x1ea1;i n&#x1eef;a" FOLDED="true" ID="ID_1519046182" CREATED="1690275418292" MODIFIED="1690336137034">
+<node TEXT="&#x110;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t s&#x1ef1; ki&#x1ec7;n x&#x1ea3;y ra r&#x1ea5;t l&#xe2;u trong qu&#xe1; kh&#x1ee9; v&#xe0; kh&#xf4;ng c&#xf2;n &#x111;&#xfa;ng &#x1edf; hi&#x1ec7;n t&#x1ea1;i n&#x1eef;a" ID="ID_1519046182" CREATED="1690275418292" MODIFIED="1690336137034">
 <font SIZE="8"/>
 <node TEXT="He used to work for the police force." ID="ID_1611390440" CREATED="1690275844166" MODIFIED="1690337421487">
 <font SIZE="6" BOLD="false"/>
@@ -374,7 +374,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i (Present tense)" POSITION="right" ID="ID_1814404649" CREATED="1690333578843" MODIFIED="1690333598261">
+<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i (Present tense)" FOLDED="true" POSITION="right" ID="ID_1814404649" CREATED="1690333578843" MODIFIED="1690333598261">
 <node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i &#x111;&#x1a1;n (Present Simple tense)" ID="ID_1003195595" CREATED="1690244353770" MODIFIED="1690244831058">
 <node TEXT="C&#xf4;ng th&#x1ee9;c" ID="ID_803694816" CREATED="1690245214806" MODIFIED="1690246198627">
 <node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + Verb/Verb + (e)s" FOLDED="true" ID="ID_37819217" CREATED="1690246234096" MODIFIED="1690274521423">
@@ -1008,7 +1008,7 @@
 </node>
 </node>
 <node TEXT="Th&#xec; t&#x1b0;&#x1a1;ng lai 2 (Future 2)" FOLDED="true" POSITION="right" ID="ID_1685399433" CREATED="1690686503780" MODIFIED="1690687653661">
-<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i ho&#xe0;n th&#xe0;nh ti&#x1ebf;p di&#x1ec5;n (Present Perfect Continuous tense)" FOLDED="true" ID="ID_123849050" CREATED="1690686653054" MODIFIED="1690686674630">
+<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i &#x111;&#x1a1;n (Present tense)" FOLDED="true" ID="ID_123849050" CREATED="1690686653054" MODIFIED="1692711984761">
 <node TEXT="C&#xf4;ng th&#x1ee9;c" FOLDED="true" ID="ID_92505329" CREATED="1690245214806" MODIFIED="1690246198627">
 <node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + Verb/Verb + (e)s" FOLDED="true" ID="ID_737907371" CREATED="1690246234096" MODIFIED="1690274521423">
 <attribute_layout NAME_WIDTH="91.49999727308759 pt" VALUE_WIDTH="92.24999725073585 pt"/>
@@ -1041,249 +1041,217 @@
 </node>
 </node>
 </node>
-<node TEXT="C&#xe1;ch d&#xf9;ng" FOLDED="true" ID="ID_1628759682" CREATED="1690245217496" MODIFIED="1690246641651">
+<node TEXT="C&#xe1;ch d&#xf9;ng" ID="ID_1628759682" CREATED="1690245217496" MODIFIED="1692712160832">
 <font BOLD="true"/>
-<node TEXT="M&#xf4; t&#x1ea3; th&#xf3;i quen ho&#x1eb7;c m&#x1ed9;t h&#xe0;nh &#x111;&#x1ed9;ng l&#x1eb7;p &#x111;i l&#x1eb7;p l&#x1ea1;i" FOLDED="true" ID="ID_606690288" CREATED="1690246585284" MODIFIED="1690276175619">
-<attribute_layout NAME_WIDTH="572.2499829456215 pt" VALUE_WIDTH="456.74998638778965 pt"/>
-<attribute NAME="always, generally, normally, usually, often, somtimes, rarely, never, everyday, ever evening, ..." VALUE=""/>
-<font BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
-<node TEXT="I get up really early and practise for an hour or so most days." ID="ID_598178692" CREATED="1690246703465" MODIFIED="1690246804098" HGAP_QUANTITY="14.0 pt" VSHIFT_QUANTITY="-5.249999843537813 pt">
-<font SIZE="6" BOLD="false"/>
-</node>
-<node TEXT="I use the Internet just about every day." ID="ID_646667593" CREATED="1690246701346" MODIFIED="1690276138047">
-<font SIZE="6" BOLD="false"/>
-</node>
-</node>
-<node TEXT="M&#xf4; t&#x1ea3; t&#xec;nh hu&#x1ed1;ng c&#x1ed1; &#x111;&#x1ecb;nh" FOLDED="true" ID="ID_109175587" CREATED="1690246592323" MODIFIED="1690276175629">
+<node TEXT="D&#xf9;ng th&#xec; hi&#x1ec7;n t&#x1ea1;i &#x111;&#x1a1;n v&#x1edb;i meaning future &#x111;&#x1ec3; n&#xf3;i v&#x1ec1; th&#x1edd;i kh&#xf3;a bi&#x1ec3;u, k&#x1ebf; ho&#x1ea1;ch" ID="ID_109175587" CREATED="1690246592323" MODIFIED="1692712160824">
 <font BOLD="true"/>
-<node TEXT="My parents own a restaurant." ID="ID_1254000421" CREATED="1690246979294" MODIFIED="1690276139543">
+<node TEXT="The conference only lasts three days." ID="ID_1254000421" CREATED="1690246979294" MODIFIED="1692712085651">
 <font SIZE="6" BOLD="false"/>
 </node>
-<node TEXT="She has a computer." ID="ID_1137339513" CREATED="1690247000046" MODIFIED="1690276149567">
+<node TEXT="The train to the airport leaves in 20 minutes." ID="ID_1137339513" CREATED="1690247000046" MODIFIED="1692712109623">
 <font SIZE="6" BOLD="false"/>
 </node>
-<node TEXT="L&#x1b0;u &#xfd;, ta kh&#xf4;ng d&#xf9;ng th&#xec; hi&#x1ec7;n t&#x1ea1;i &#x111;&#x1a1;n &#x111;&#x1ec3; m&#xf4; t&#x1ea3; m&#x1ed9;t s&#x1ef1; ki&#x1ec7;n di&#x1ec5;n ti&#x1ebf;p t&#x1ee5;c di&#x1ec5;n ra trong bao l&#xe2;u, thay v&#xe0;o &#x111;&#xf3; d&#xf9;ng th&#xec; hi&#x1ec7;n t&#x1ea1;i ho&#xe0;n th&#xe0;nh" LOCALIZED_STYLE_REF="styles.important" FOLDED="true" ID="ID_1465129164" CREATED="1690246978063" MODIFIED="1690247341791">
-<font SIZE="6" BOLD="false"/>
-<node ID="ID_1140138689" CREATED="1690274227086" MODIFIED="1690274249747"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b><font color="#ff0033">NOT</font>&#160;</b>I work there since I was 15
-    </p>
-  </body>
-</html>
-</richcontent>
-<font BOLD="false" STRIKETHROUGH="true"/>
 </node>
-<node TEXT="I have worked there since I was 15" ID="ID_1624679482" CREATED="1690247348010" MODIFIED="1690247377125">
-<font BOLD="false"/>
-</node>
-</node>
-</node>
-<node TEXT="N&#xf3;i v&#x1ec1; m&#x1ed9;t s&#x1ef1; th&#x1ead;t hi&#x1ec3;n nhi&#xea;n" FOLDED="true" ID="ID_1414484358" CREATED="1690246591388" MODIFIED="1690276175633">
-<attribute_layout NAME_WIDTH="241.49999280273937 pt" VALUE_WIDTH="241.49999280273937 pt"/>
-<attribute NAME="generally, mainly, normally, usually, traditionally" VALUE=""/>
+<node TEXT="Th&#x1b0;&#x1edd;ng &#x111;i sau c&#xe1;c li&#xea;n t&#x1eeb; n&#x1ed1;i nh&#x1b0;: when, as soon as, after, before, until, as long as." ID="ID_274676123" CREATED="1690246592323" MODIFIED="1692712197042">
 <font BOLD="true"/>
-<node TEXT="The sun rises in the east." ID="ID_1257846784" CREATED="1690246984429" MODIFIED="1690276151352">
+<node TEXT="I&apos;ll be feeling really nervous when I get to Rome." ID="ID_301247484" CREATED="1690246979294" MODIFIED="1692712212626">
 <font SIZE="6" BOLD="false"/>
 </node>
-<node TEXT="Student don&apos;t generally have much money." ID="ID_720924188" CREATED="1690246981302" MODIFIED="1690276153087">
+<node TEXT="Can you do it before we have the departmental meeting." ID="ID_675205973" CREATED="1690247000046" MODIFIED="1692712226554">
 <font SIZE="6" BOLD="false"/>
 </node>
-</node>
-<node TEXT="D&#xf9;ng &#x111;&#x1ec3; k&#x1ec3; chuy&#x1ec7;n ho&#x1eb7;c n&#xf3;i v&#x1ec1; m&#x1ed9;t b&#x1ed9; phim, s&#xe1;ch, hay tr&#xf2; ch&#x1a1;i" FOLDED="true" ID="ID_1939785979" CREATED="1690246923927" MODIFIED="1690276175641">
-<font BOLD="true"/>
-<node TEXT="In the film, the tea lady falls in love with the Prime Minister." ID="ID_1987214734" CREATED="1690246988318" MODIFIED="1690276155150">
+<node TEXT="L&#x1b0;u &#xfd; l&#xe0; c&#xe1;c th&#xec; hi&#x1ec7;n t&#x1ea1;i kh&#xe1;c c&#x169;ng c&#xf3; th&#x1ec3; &#x111;i sau c&#xe1;c li&#xea;n t&#x1eeb; n&#x1ed1;i nh&#x1b0; b&#xea;n tr&#xe1;i." ID="ID_1276613463" CREATED="1690247000046" MODIFIED="1692712320040">
 <font SIZE="6" BOLD="false"/>
-</node>
-<node TEXT="According to that book, Studying hard does&apos;nt mean success, but lazy mean fail." ID="ID_1556584199" CREATED="1690246985782" MODIFIED="1690276157202">
-<font SIZE="6" BOLD="false"/>
-</node>
-</node>
-<node TEXT="&#x110;&#x1b0;a ra ch&#x1ec9; d&#x1eab;n" FOLDED="true" ID="ID_528435954" CREATED="1690246589523" MODIFIED="1690246921756">
-<font BOLD="false"/>
-<node TEXT="You go down to the traffic lights, then you turn left." ID="ID_1872615844" CREATED="1690246992557" MODIFIED="1690276159110">
-<font SIZE="6" BOLD="false"/>
-</node>
-<node TEXT="To start the programme, fist you click on the icon on the desktop." ID="ID_341431321" CREATED="1690246989855" MODIFIED="1690276160909">
+<node TEXT="I won&apos;t be able to relax until I&apos;m actually giving my talk." ID="ID_357525010" CREATED="1690247000046" MODIFIED="1692712340655">
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
 </node>
-<node TEXT="&#xc1;p d&#x1ee5;ng trong b&#xe0;i thi IELTS" FOLDED="true" ID="ID_926290912" CREATED="1690274715703" MODIFIED="1690274817891">
-<node TEXT="" ID="ID_902982818" CREATED="1690275187460" MODIFIED="1690275187463">
-<hook NAME="FirstGroupNode"/>
-</node>
-<node ID="ID_1034779600" CREATED="1690274828113" MODIFIED="1690274955752"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      M&#7903; &#273;&#7847;u <font color="#0000cc">Writing task 1, Writing task 2 v&#224; Speaking part 3</font>
-    </p>
-  </body>
-</html>
-</richcontent>
-<font SIZE="8" BOLD="false"/>
-</node>
-<node TEXT="M&#xf4; t&#x1ea3; s&#x1ef1; th&#x1ead;t trong Speaking part 1, 2, 3" ID="ID_1393533818" CREATED="1690274835456" MODIFIED="1690274983263">
-<font SIZE="8" BOLD="false"/>
-</node>
-<node TEXT="" ID="ID_1939380394" CREATED="1690275187459" MODIFIED="1690275187460">
-<hook NAME="SummaryNode"/>
-<hook NAME="AlwaysUnfoldedNode"/>
-<node TEXT="Reference Link" ID="ID_1477708621" CREATED="1690275187465" MODIFIED="1690275211692">
-<attribute NAME="Link" VALUE="https://www.ieltsvietop.vn/blog/thi-hien-tai-don/#6-Cach-dung-thi-hien-tai-don-trong-bai-thi-IELTS"/>
 </node>
 </node>
-</node>
-</node>
-<node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i ho&#xe0;n th&#xe0;nh &#x111;&#x1a1;n (Present Pfect Simple tense)" FOLDED="true" ID="ID_908064806" CREATED="1690686612853" MODIFIED="1690686651381">
-<node TEXT="C&#xf4;ng th&#x1ee9;c" FOLDED="true" ID="ID_1251010505" CREATED="1690245214806" MODIFIED="1690246198627">
-<node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + Verb/Verb + (e)s" FOLDED="true" ID="ID_1502513488" CREATED="1690246234096" MODIFIED="1690274521423">
+<node TEXT="Be about to" FOLDED="true" ID="ID_908064806" CREATED="1690686612853" MODIFIED="1692712377215">
+<node TEXT="C&#xf4;ng th&#x1ee9;c" ID="ID_1251010505" CREATED="1690245214806" MODIFIED="1690246198627">
+<node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + am/is/are about to + verb" ID="ID_1502513488" CREATED="1690246234096" MODIFIED="1692712399959">
 <attribute_layout NAME_WIDTH="91.49999727308759 pt" VALUE_WIDTH="92.24999725073585 pt"/>
 <font SIZE="8"/>
-<node TEXT="That dog is beautiful." ID="ID_455343137" CREATED="1690274547970" MODIFIED="1690276129415">
-<font SIZE="6" BOLD="false"/>
-</node>
-<node TEXT="She goes to school." ID="ID_1785691821" CREATED="1690274545290" MODIFIED="1690276127288">
+<node TEXT="I am about to go to Rome." ID="ID_455343137" CREATED="1690274547970" MODIFIED="1692712461199">
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
-<node TEXT="C&#xe2;u ph&#x1ee7; &#x111;&#x1ecb;nh:&#xa;S + do/does not + Verb" FOLDED="true" ID="ID_1292088409" CREATED="1690246236056" MODIFIED="1690274524301">
+<node TEXT="C&#xe2;u ph&#x1ee7; &#x111;&#x1ecb;nh:&#xa;S + am/is/are not about to + verb" ID="ID_1292088409" CREATED="1690246236056" MODIFIED="1692712416775">
 <attribute_layout NAME_WIDTH="129.74999613314878 pt" VALUE_WIDTH="129.74999613314878 pt"/>
 <font SIZE="8"/>
-<node TEXT="You don&apos;t belive me." ID="ID_1244859855" CREATED="1690274551634" MODIFIED="1690276125694">
-<font SIZE="6" BOLD="false"/>
-</node>
-<node TEXT="She does&apos;nt tell me the truth." ID="ID_828345495" CREATED="1690274549211" MODIFIED="1690276117870">
+<node TEXT="I&apos;m not about to go to Rome." ID="ID_1244859855" CREATED="1690274551634" MODIFIED="1692712474622">
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
-<node TEXT="C&#xe2;u nghi v&#x1ea5;n:&#xa;Do/Does + ... + Verb?" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_921007451" CREATED="1479208899084" MODIFIED="1690275639347">
+<node TEXT="C&#xe2;u nghi v&#x1ea5;n:&#xa;am/is/are + ... + verb?" LOCALIZED_STYLE_REF="default" FOLDED="true" ID="ID_921007451" CREATED="1479208899084" MODIFIED="1692712445599">
 <attribute_layout NAME_WIDTH="110.24999671429406 pt" VALUE_WIDTH="110.24999671429406 pt"/>
 <font SIZE="8"/>
-<node TEXT="Do you know that?" ID="ID_1222905899" CREATED="1690274555330" MODIFIED="1690274631575">
-<font SIZE="6" BOLD="false"/>
-</node>
-<node TEXT="Does she love him?" ID="ID_1417540651" CREATED="1690274552731" MODIFIED="1690274631575">
+<node TEXT="Are you about to go to Rome?" ID="ID_1222905899" CREATED="1690274555330" MODIFIED="1692712485731">
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
 </node>
-<node TEXT="C&#xe1;ch d&#xf9;ng" FOLDED="true" ID="ID_943869348" CREATED="1690245217496" MODIFIED="1690246641651">
+<node TEXT="C&#xe1;ch d&#xf9;ng" ID="ID_943869348" CREATED="1690245217496" MODIFIED="1690246641651">
 <font BOLD="true"/>
-<node TEXT="M&#xf4; t&#x1ea3; th&#xf3;i quen ho&#x1eb7;c m&#x1ed9;t h&#xe0;nh &#x111;&#x1ed9;ng l&#x1eb7;p &#x111;i l&#x1eb7;p l&#x1ea1;i" FOLDED="true" ID="ID_1580717569" CREATED="1690246585284" MODIFIED="1690276175619">
-<attribute_layout NAME_WIDTH="572.2499829456215 pt" VALUE_WIDTH="456.74998638778965 pt"/>
-<attribute NAME="always, generally, normally, usually, often, somtimes, rarely, never, everyday, ever evening, ..." VALUE=""/>
-<font BOLD="true" STRIKETHROUGH="false" ITALIC="false"/>
-<node TEXT="I get up really early and practise for an hour or so most days." ID="ID_360546140" CREATED="1690246703465" MODIFIED="1690246804098" HGAP_QUANTITY="14.0 pt" VSHIFT_QUANTITY="-5.249999843537813 pt">
-<font SIZE="6" BOLD="false"/>
-</node>
-<node TEXT="I use the Internet just about every day." ID="ID_1687519376" CREATED="1690246701346" MODIFIED="1690276138047">
+<node TEXT="D&#xf9;ng &#x111;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t s&#x1ef1; ki&#x1ec7;n trong t&#x1b0;&#x1a1;ng lai g&#x1ea7;n, d&#x1b0;&#x1edd;ng nh&#x1b0; x&#x1ea3;y ra ngay l&#x1ead;p t&#x1ee9;c" LOCALIZED_STYLE_REF="default" ID="ID_1048656034" CREATED="1479208899084" MODIFIED="1692712728716">
+<attribute_layout NAME_WIDTH="110.24999671429406 pt" VALUE_WIDTH="110.24999671429406 pt"/>
+<font SIZE="8"/>
+<node TEXT="I&apos;m about to go to Rome for a conference." ID="ID_957968330" CREATED="1690274555330" MODIFIED="1692712796459">
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
-<node TEXT="M&#xf4; t&#x1ea3; t&#xec;nh hu&#x1ed1;ng c&#x1ed1; &#x111;&#x1ecb;nh" FOLDED="true" ID="ID_1719688358" CREATED="1690246592323" MODIFIED="1690276175629">
+<node TEXT="D&#x1ea1;ng ph&#x1ee7; &#x111;&#x1ecb;nh c&#x1ee7;a be about to th&#x1b0;&#x1edd;ng d&#xf9;ng v&#x1edb;i &#xfd; ngh&#x129;a ng&#x1b0;&#x1edd;i n&#xf3;i kh&#xf4;ng c&#xf3; d&#x1ef1; &#x111;&#x1ecb;nh l&#xe0;m vi&#x1ec7;c &#x111;&#xf3;" LOCALIZED_STYLE_REF="default" ID="ID_378268980" CREATED="1479208899084" MODIFIED="1692712777347">
+<attribute_layout NAME_WIDTH="110.24999671429406 pt" VALUE_WIDTH="110.24999671429406 pt"/>
+<font SIZE="8"/>
+<node TEXT="I&apos;m not about to cancel my trip." ID="ID_1998312156" CREATED="1690274555330" MODIFIED="1692712808694">
+<font SIZE="6" BOLD="false"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="T&#x1b0;&#x1a1;ng lai ti&#x1ebf;p di&#x1ec5;n (Future continuous)" FOLDED="true" ID="ID_1885111572" CREATED="1690686612853" MODIFIED="1692712846793">
+<node TEXT="C&#xf4;ng th&#x1ee9;c" FOLDED="true" ID="ID_1429251477" CREATED="1690245214806" MODIFIED="1690246198627">
+<node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + will be + verb-ing" ID="ID_1577398639" CREATED="1690246234096" MODIFIED="1692713090587">
+<attribute_layout NAME_WIDTH="91.49999727308759 pt" VALUE_WIDTH="92.24999725073585 pt"/>
+<font SIZE="8"/>
+<node TEXT="I&apos;ll be feeling nervous." ID="ID_972659629" CREATED="1690274547970" MODIFIED="1692713164757">
+<font SIZE="6" BOLD="false"/>
+</node>
+</node>
+<node TEXT="C&#xe2;u ph&#x1ee7; &#x111;&#x1ecb;nh:&#xa;S + will not (won&apos;t) be + verb-ing" ID="ID_576431370" CREATED="1690246236056" MODIFIED="1692713108364">
+<attribute_layout NAME_WIDTH="129.74999613314878 pt" VALUE_WIDTH="129.74999613314878 pt"/>
+<font SIZE="8"/>
+<node TEXT="She won&apos;t be feeling nervous." ID="ID_1046737384" CREATED="1690274551634" MODIFIED="1692713158154">
+<font SIZE="6" BOLD="false"/>
+</node>
+</node>
+<node TEXT="C&#xe2;u nghi v&#x1ea5;n:&#xa;will .... be + verb-ing?" LOCALIZED_STYLE_REF="default" ID="ID_262688615" CREATED="1479208899084" MODIFIED="1692713132118">
+<attribute_layout NAME_WIDTH="110.24999671429406 pt" VALUE_WIDTH="110.24999671429406 pt"/>
+<font SIZE="8"/>
+<node TEXT="Will you be feeling nervous?" ID="ID_969827070" CREATED="1690274555330" MODIFIED="1692713176370">
+<font SIZE="6" BOLD="false"/>
+</node>
+</node>
+</node>
+<node TEXT="C&#xe1;ch d&#xf9;ng" ID="ID_636700742" CREATED="1690245217496" MODIFIED="1690246641651">
 <font BOLD="true"/>
-<node TEXT="My parents own a restaurant." ID="ID_1011947982" CREATED="1690246979294" MODIFIED="1690276139543">
+<node TEXT="D&#xf9;ng &#x111;&#x1ec3; d&#x1ef1; &#x111;o&#xe1;n v&#x1ec1; m&#x1ed9;t s&#x1ef1; ki&#x1ec7;n, t&#xec;nh hu&#x1ed1;ng di&#x1ec5;n ra t&#x1ea1;i m&#x1ed9;t th&#x1edd;i &#x111;i&#x1ec3;m c&#x1ee5; th&#x1ec3; trong t&#x1b0;&#x1a1;ng lai, ho&#x1eb7;c di&#x1ec5;n ra theo chu k&#x1ef3; trong t&#x1b0;&#x1a1;ng lai." LOCALIZED_STYLE_REF="default" ID="ID_1777435073" CREATED="1479208899084" MODIFIED="1692713546611">
+<attribute_layout NAME_WIDTH="110.24999671429406 pt" VALUE_WIDTH="110.24999671429406 pt"/>
+<font SIZE="8"/>
+<node TEXT="I&apos;ll be working on the report all next week." ID="ID_705802526" CREATED="1690274555330" MODIFIED="1692713570586">
 <font SIZE="6" BOLD="false"/>
 </node>
-<node TEXT="She has a computer." ID="ID_371026836" CREATED="1690247000046" MODIFIED="1690276149567">
+<node TEXT="I&apos;ll be thinking of you in Rome." ID="ID_575999449" CREATED="1690274555330" MODIFIED="1692713589192">
 <font SIZE="6" BOLD="false"/>
 </node>
-<node TEXT="L&#x1b0;u &#xfd;, ta kh&#xf4;ng d&#xf9;ng th&#xec; hi&#x1ec7;n t&#x1ea1;i &#x111;&#x1a1;n &#x111;&#x1ec3; m&#xf4; t&#x1ea3; m&#x1ed9;t s&#x1ef1; ki&#x1ec7;n di&#x1ec5;n ti&#x1ebf;p t&#x1ee5;c di&#x1ec5;n ra trong bao l&#xe2;u, thay v&#xe0;o &#x111;&#xf3; d&#xf9;ng th&#xec; hi&#x1ec7;n t&#x1ea1;i ho&#xe0;n th&#xe0;nh" LOCALIZED_STYLE_REF="styles.important" FOLDED="true" ID="ID_225315754" CREATED="1690246978063" MODIFIED="1690247341791">
+<node TEXT="By the year 2015 it is estimated that well over one billion people will be learning English." ID="ID_229888276" CREATED="1690274555330" MODIFIED="1692713615336">
 <font SIZE="6" BOLD="false"/>
-<node ID="ID_1642612696" CREATED="1690274227086" MODIFIED="1690274249747"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <b><font color="#ff0033">NOT</font>&#160;</b>I work there since I was 15
-    </p>
-  </body>
-</html>
-</richcontent>
-<font BOLD="false" STRIKETHROUGH="true"/>
 </node>
-<node TEXT="I have worked there since I was 15" ID="ID_916134230" CREATED="1690247348010" MODIFIED="1690247377125">
-<font BOLD="false"/>
+</node>
+<node TEXT="&#x110;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t s&#x1ef1; ki&#x1ec7;n &#x111;&#xe3; &#x111;&#x1b0;&#x1ee3;c l&#xea;n k&#x1ebf; ho&#x1ea1;ch trong t&#x1b0;&#x1a1;ng lai (gi&#x1ed1;ng v&#x1edb;i th&#xec; hi&#x1ec7;n t&#x1ea1;i ti&#x1ebf;p di&#x1ec5;n)." LOCALIZED_STYLE_REF="default" ID="ID_568876599" CREATED="1479208899084" MODIFIED="1692713654443">
+<attribute_layout NAME_WIDTH="110.24999671429406 pt" VALUE_WIDTH="110.24999671429406 pt"/>
+<font SIZE="8"/>
+<node TEXT="I&apos;ll be seeing Sarah at lunch." ID="ID_871345016" CREATED="1690274555330" MODIFIED="1692713668427">
+<font SIZE="6" BOLD="false"/>
 </node>
 </node>
 </node>
-<node TEXT="N&#xf3;i v&#x1ec1; m&#x1ed9;t s&#x1ef1; th&#x1ead;t hi&#x1ec3;n nhi&#xea;n" FOLDED="true" ID="ID_219042008" CREATED="1690246591388" MODIFIED="1690276175633">
-<attribute_layout NAME_WIDTH="241.49999280273937 pt" VALUE_WIDTH="241.49999280273937 pt"/>
-<attribute NAME="generally, mainly, normally, usually, traditionally" VALUE=""/>
+</node>
+<node TEXT="T&#x1b0;&#x1a1;ng lai ho&#xe0;n th&#xe0;nh (future perfect simple)" FOLDED="true" ID="ID_1212494569" CREATED="1690686612853" MODIFIED="1692713705198">
+<node TEXT="C&#xf4;ng th&#x1ee9;c" ID="ID_836429293" CREATED="1690245214806" MODIFIED="1690246198627">
+<node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + will have + past participle" ID="ID_1033243730" CREATED="1690246234096" MODIFIED="1692713826138">
+<attribute_layout NAME_WIDTH="91.49999727308759 pt" VALUE_WIDTH="92.24999725073585 pt"/>
+<font SIZE="8"/>
+<node TEXT="I&apos;ll have done it by then." ID="ID_89599397" CREATED="1690274547970" MODIFIED="1692713836372">
+<font SIZE="6" BOLD="false"/>
+</node>
+</node>
+<node TEXT="C&#xe2;u ph&#x1ee7; &#x111;&#x1ecb;nh:&#xa;S + will not (won&apos;t) have + past participle" ID="ID_1563762790" CREATED="1690246236056" MODIFIED="1692713854826">
+<attribute_layout NAME_WIDTH="129.74999613314878 pt" VALUE_WIDTH="129.74999613314878 pt"/>
+<font SIZE="8"/>
+<node TEXT="We won&apos;t have done it by then." ID="ID_1473363847" CREATED="1690274551634" MODIFIED="1692713888688">
+<font SIZE="6" BOLD="false"/>
+</node>
+</node>
+<node TEXT="C&#xe2;u nghi v&#x1ea5;n:&#xa;will .... + have + past participle?" LOCALIZED_STYLE_REF="default" ID="ID_38228610" CREATED="1479208899084" MODIFIED="1692713999998">
+<attribute_layout NAME_WIDTH="110.24999671429406 pt" VALUE_WIDTH="110.24999671429406 pt"/>
+<font SIZE="8"/>
+<node TEXT="Will you have done it by then?" ID="ID_278931204" CREATED="1690274555330" MODIFIED="1692714009142">
+<font SIZE="6" BOLD="false"/>
+</node>
+</node>
+</node>
+<node TEXT="C&#xe1;ch d&#xf9;ng" ID="ID_1597011515" CREATED="1690245217496" MODIFIED="1690246641651">
 <font BOLD="true"/>
-<node TEXT="The sun rises in the east." ID="ID_1828714359" CREATED="1690246984429" MODIFIED="1690276151352">
+<node TEXT="D&#xf9;ng &#x111;&#x1ec3; m&#xf4; t&#x1ea3; v&#x1ec1; h&#xe0;nh &#x111;&#x1ed9;ng, s&#x1ef1; ki&#x1ec7;n trong t&#x1b0;&#x1a1;ng lai, s&#x1ebd; k&#x1ebf;t th&#xfa;c t&#x1ea1;i m&#x1ed9;t th&#x1edd;i &#x111;i&#x1ec3;m x&#xe1;c &#x111;&#x1ecb;nh trong t&#x1b0;&#x1a1;ng lai, th&#x1b0;&#x1edd;ng &#x111;i v&#x1edb;i: before, by + m&#x1ed1;c th&#x1edd;i gian, in + kho&#x1ea3;ng th&#x1edd;i gian" LOCALIZED_STYLE_REF="default" ID="ID_893662978" CREATED="1479208899084" MODIFIED="1692714078494">
+<attribute_layout NAME_WIDTH="110.24999671429406 pt" VALUE_WIDTH="110.24999671429406 pt"/>
+<font SIZE="8"/>
+<node TEXT="By the end of the year I will have given the same talk at 6 conferences!" ID="ID_444917854" CREATED="1690274555330" MODIFIED="1692714101871">
 <font SIZE="6" BOLD="false"/>
 </node>
-<node TEXT="Student don&apos;t generally have much money." ID="ID_837351364" CREATED="1690246981302" MODIFIED="1690276153087">
+<node TEXT="I&apos;ll have finished it by next Friday." ID="ID_1176176266" CREATED="1690274555330" MODIFIED="1692714119102">
+<font SIZE="6" BOLD="false"/>
+</node>
+<node TEXT="In a week&apos;s time I&apos;ll have written the report." ID="ID_1647050587" CREATED="1690274555330" MODIFIED="1692714133009">
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
-<node TEXT="D&#xf9;ng &#x111;&#x1ec3; k&#x1ec3; chuy&#x1ec7;n ho&#x1eb7;c n&#xf3;i v&#x1ec1; m&#x1ed9;t b&#x1ed9; phim, s&#xe1;ch, hay tr&#xf2; ch&#x1a1;i" FOLDED="true" ID="ID_1752214197" CREATED="1690246923927" MODIFIED="1690276175641">
+</node>
+</node>
+<node TEXT="T&#x1b0;&#x1a1;ng lai ho&#xe0;n th&#xe0;nh ti&#x1ebf;p di&#x1ec5;n (future perfect continuous)" ID="ID_1690783422" CREATED="1690686612853" MODIFIED="1692714205863">
+<node TEXT="C&#xf4;ng th&#x1ee9;c" ID="ID_1208688055" CREATED="1690245214806" MODIFIED="1690246198627">
+<node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + will have been + verb-ing" ID="ID_273688639" CREATED="1690246234096" MODIFIED="1692714236131">
+<attribute_layout NAME_WIDTH="91.49999727308759 pt" VALUE_WIDTH="92.24999725073585 pt"/>
+<font SIZE="8"/>
+<node TEXT="I&apos;ll have been studying here for three months." ID="ID_405205345" CREATED="1690274547970" MODIFIED="1692714278143">
+<font SIZE="6" BOLD="false"/>
+</node>
+</node>
+<node TEXT="C&#xe2;u ph&#x1ee7; &#x111;&#x1ecb;nh:&#xa;S + will not (won&apos;t) have been + verb-ing" ID="ID_1298176235" CREATED="1690246236056" MODIFIED="1692714252060">
+<attribute_layout NAME_WIDTH="129.74999613314878 pt" VALUE_WIDTH="129.74999613314878 pt"/>
+<font SIZE="8"/>
+<node TEXT="We won&apos;t have been studying here for long." ID="ID_214522044" CREATED="1690274551634" MODIFIED="1692714291882">
+<font SIZE="6" BOLD="false"/>
+</node>
+</node>
+<node TEXT="C&#xe2;u nghi v&#x1ea5;n:&#xa;will .... + have been + verb-ing?" LOCALIZED_STYLE_REF="default" ID="ID_143419295" CREATED="1479208899084" MODIFIED="1692714262617">
+<attribute_layout NAME_WIDTH="110.24999671429406 pt" VALUE_WIDTH="110.24999671429406 pt"/>
+<font SIZE="8"/>
+<node TEXT="How long will you have been studying here?" ID="ID_1023401539" CREATED="1690274555330" MODIFIED="1692714302707">
+<font SIZE="6" BOLD="false"/>
+</node>
+</node>
+</node>
+<node TEXT="C&#xe1;ch d&#xf9;ng" ID="ID_1109905085" CREATED="1690245217496" MODIFIED="1690246641651">
 <font BOLD="true"/>
-<node TEXT="In the film, the tea lady falls in love with the Prime Minister." ID="ID_1600298509" CREATED="1690246988318" MODIFIED="1690276155150">
-<font SIZE="6" BOLD="false"/>
-</node>
-<node TEXT="According to that book, Studying hard does&apos;nt mean success, but lazy mean fail." ID="ID_198106936" CREATED="1690246985782" MODIFIED="1690276157202">
-<font SIZE="6" BOLD="false"/>
-</node>
-</node>
-<node TEXT="&#x110;&#x1b0;a ra ch&#x1ec9; d&#x1eab;n" FOLDED="true" ID="ID_1884063045" CREATED="1690246589523" MODIFIED="1690246921756">
-<font BOLD="false"/>
-<node TEXT="You go down to the traffic lights, then you turn left." ID="ID_1009762253" CREATED="1690246992557" MODIFIED="1690276159110">
-<font SIZE="6" BOLD="false"/>
-</node>
-<node TEXT="To start the programme, fist you click on the icon on the desktop." ID="ID_699589386" CREATED="1690246989855" MODIFIED="1690276160909">
+<node TEXT="D&#xf9;ng &#x111;&#x1ec3; di&#x1ec5;n m&#x1ed9;t h&#xe0;nh &#x111;&#x1ed9;ng ho&#x1eb7;c t&#xec;nh hu&#x1ed1;ng &#x111;ang di&#x1ec5;n ra TR&#x1af;&#x1eda;C m&#x1ed9;t th&#x1edd;i &#x111;i&#x1ec3;m nh&#x1ea5;t &#x111;&#x1ecb;nh trong qu&#xe1; kh&#x1ee9;. Th&#xf4;ng th&#x1b0;&#x1edd;ng ta s&#x1ebd; &#x111;&#x1ec1; c&#x1ead;p &#x111;&#x1ebf;n kho&#x1ea3;ng th&#x1edd;i gian trong &#x111;&#xf3;." LOCALIZED_STYLE_REF="default" ID="ID_1385671877" CREATED="1479208899084" MODIFIED="1692714376194">
+<attribute_layout NAME_WIDTH="110.24999671429406 pt" VALUE_WIDTH="110.24999671429406 pt"/>
+<font SIZE="8"/>
+<node TEXT="By the end of the month I&apos;ll have b&#xea;n working h&#x1ec3; for three years." ID="ID_1475689846" CREATED="1690274555330" MODIFIED="1692714549233">
 <font SIZE="6" BOLD="false"/>
 </node>
 </node>
 </node>
-<node TEXT="&#xc1;p d&#x1ee5;ng trong b&#xe0;i thi IELTS" FOLDED="true" ID="ID_457610369" CREATED="1690274715703" MODIFIED="1690274817891">
-<node TEXT="" ID="ID_1254499896" CREATED="1690275187460" MODIFIED="1690275187463">
-<hook NAME="FirstGroupNode"/>
 </node>
-<node ID="ID_805299882" CREATED="1690274828113" MODIFIED="1690274955752"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      M&#7903; &#273;&#7847;u <font color="#0000cc">Writing task 1, Writing task 2 v&#224; Speaking part 3</font>
-    </p>
-  </body>
-</html>
-</richcontent>
-<font SIZE="8" BOLD="false"/>
+<node TEXT="Grammar extra: The future in the past" ID="ID_1707789843" CREATED="1690686612853" MODIFIED="1692714425354">
+<node TEXT="C&#xe1;ch d&#xf9;ng" ID="ID_936470098" CREATED="1690245217496" MODIFIED="1690246641651">
+<font BOLD="true"/>
+<node TEXT="Ta s&#x1eed; d&#x1ee5;ng was/were going to, was/were planning to, was/were about to _ verb &#x111;&#x1ec3; n&#xf3;i v&#x1ec1; m&#x1ed9;t &#x111;i&#x1ec1;u g&#xec; &#x111;&#xf3; &#x111;&#xe3; &#x111;&#x1b0;&#x1ee3;c l&#xea;n k&#x1ebf; ho&#x1ea1;ch nh&#x1b0;ng l&#x1ea1;i kh&#xf4;ng x&#x1ea3;y ra" LOCALIZED_STYLE_REF="default" ID="ID_1832588690" CREATED="1479208899084" MODIFIED="1692714497432">
+<attribute_layout NAME_WIDTH="110.24999671429406 pt" VALUE_WIDTH="110.24999671429406 pt"/>
+<font SIZE="8"/>
+<node TEXT="I was going to leave this morning but they cancelled my flight." ID="ID_1680392910" CREATED="1690274555330" MODIFIED="1692714516798">
+<font SIZE="6" BOLD="false"/>
 </node>
-<node TEXT="M&#xf4; t&#x1ea3; s&#x1ef1; th&#x1ead;t trong Speaking part 1, 2, 3" ID="ID_911378008" CREATED="1690274835456" MODIFIED="1690274983263">
-<font SIZE="8" BOLD="false"/>
-</node>
-<node TEXT="" ID="ID_796732935" CREATED="1690275187459" MODIFIED="1690275187460">
-<hook NAME="SummaryNode"/>
-<hook NAME="AlwaysUnfoldedNode"/>
-<node TEXT="Reference Link" ID="ID_406314121" CREATED="1690275187465" MODIFIED="1690275211692">
-<attribute NAME="Link" VALUE="https://www.ieltsvietop.vn/blog/thi-hien-tai-don/#6-Cach-dung-thi-hien-tai-don-trong-bai-thi-IELTS"/>
+<node TEXT="We were going to leave when the phone rung." ID="ID_1046397440" CREATED="1690274555330" MODIFIED="1692714530216">
+<font SIZE="6" BOLD="false"/>
 </node>
 </node>
 </node>
 </node>
 </node>
-<node TEXT="Th&#xec; t&#x1b0;&#x1a1;ng lai 1 (Future 1)" POSITION="left" ID="ID_991295482" CREATED="1690686503780" MODIFIED="1690687643248">
+<node TEXT="Th&#xec; t&#x1b0;&#x1a1;ng lai 1 (Future 1)" FOLDED="true" POSITION="left" ID="ID_991295482" CREATED="1690686503780" MODIFIED="1690687643248">
 <node TEXT="Th&#xec; hi&#x1ec7;n t&#x1ea1;i ti&#x1ebf;p di&#x1ec5;n (Present Continuous tense)" FOLDED="true" ID="ID_213357054" CREATED="1690275320290" MODIFIED="1690275345811">
 <node TEXT="C&#xf4;ng th&#x1ee9;c" FOLDED="true" ID="ID_847428423" CREATED="1690275364981" MODIFIED="1690275371650">
 <node TEXT="C&#xe2;u kh&#x1eb3;ng &#x111;&#x1ecb;nh:&#xa;S + am/is/are + Verb/Verb + -ing" FOLDED="true" ID="ID_1710718923" CREATED="1690275408517" MODIFIED="1690333994323">
